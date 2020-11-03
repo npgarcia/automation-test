@@ -1,6 +1,6 @@
 # Instructions
 ----
-First, an quickly overview of app, if a simple api searching for TV shows, the main objetive is a litle form with a search box, when the button search is pressed redirect to another page with result.
+First, an quickly overview of app, if a simple api searching for TV shows, the main objetive is a little form with a search box, when the button search is pressed redirect to another page with result.
 
 **Important:** You need to create a fork of this project to solve the exercise
 ### Run app
